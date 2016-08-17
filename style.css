@@ -128,7 +128,7 @@ body  {
 
 .angular {
   position: absolute;
-  left: 400px;
+  left: 350px;
   top: 10px;
   color: black;
   background-color: aqua;
@@ -136,7 +136,7 @@ body  {
 
 .ledger {
   position: absolute;
-  left: 300px;
+  left: 140px;
   top: 70px;
   width: 220px;
   height: 270px;
@@ -156,7 +156,7 @@ body  {
 
 .pricing {
   position: absolute;
-  left: 530px;
+  left: 450px;
   top: 70px;
   width: 220px;
   height: 195px;
